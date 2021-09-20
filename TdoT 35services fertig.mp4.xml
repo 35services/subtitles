@@ -1,0 +1,533 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+            <xmeml version="5">
+              <sequence>
+                <name>TdoT 35services fertig.mp4</name>
+                <duration>27000</duration>
+                <rate>
+                  <timebase>30</timebase>
+                  <ntsc>false</ntsc>
+                </rate>
+                <media>
+            <video>
+            <format>
+              <samplecharacteristics>
+                <width>640</width>
+                <height>480</height>
+                <anamorphic>FALSE</anamorphic>
+                <pixelaspectratio>square</pixelaspectratio>
+                <fielddominance>none</fielddominance>
+              </samplecharacteristics>
+            </format>
+            <track>
+          
+          <clipitem id="clipitem-0">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <in>12055.2</in>
+            <out>12093.6</out>
+            <start>12055.2</start>
+            <end>12093.6</end>
+            <file id="TdoT 35services fertig.mp4">
+              <name>TdoT 35services fertig.mp4</name>
+              <pathurl>TdoT 35services fertig.mp4</pathurl>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <width>640</width>
+                    <height>480</height>
+                    <anamorphic>FALSE</anamorphic>
+                    <pixelaspectratio>square</pixelaspectratio>
+                    <fielddominance>none</fielddominance>
+                  </samplecharacteristics>
+                </video>
+                <audio>
+                  <samplecharacteristics>
+                    <samplerate>44100</samplerate>
+                  </samplecharacteristics>
+                  <channelcount>1</channelcount>
+                </audio>
+              </media>
+            </file>
+          </clipitem>
+          
+          <clipitem id="clipitem-1">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <in>12055.2</in>
+            <out>12093.6</out>
+            <start>12055.2</start>
+            <end>12093.6</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+          <clipitem id="clipitem-2">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <in>12093.6</in>
+            <out>12127.8</out>
+            <start>12093.6</start>
+            <end>12127.8</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+          <clipitem id="clipitem-3">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <in>12128.7</in>
+            <out>12180.6</out>
+            <start>12128.7</start>
+            <end>12180.6</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+          <clipitem id="clipitem-4">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <in>12181.2</in>
+            <out>12217.8</out>
+            <start>12181.2</start>
+            <end>12217.8</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+          <clipitem id="clipitem-5">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <in>12218.7</in>
+            <out>12351.6</out>
+            <start>12218.7</start>
+            <end>12351.6</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+          <clipitem id="clipitem-6">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <in>12352.5</in>
+            <out>12481.2</out>
+            <start>12352.5</start>
+            <end>12481.2</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+          <clipitem id="clipitem-7">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <in>12482.1</in>
+            <out>12531.0</out>
+            <start>12482.1</start>
+            <end>12531.0</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+          <clipitem id="clipitem-8">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <in>12531.9</in>
+            <out>12568.8</out>
+            <start>12531.9</start>
+            <end>12568.8</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+          <clipitem id="clipitem-9">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <in>12569.4</in>
+            <out>12618.0</out>
+            <start>12569.4</start>
+            <end>12618.0</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+          <clipitem id="clipitem-10">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <in>12618.9</in>
+            <out>12682.8</out>
+            <start>12618.9</start>
+            <end>12682.8</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+          <clipitem id="clipitem-11">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <in>12683.7</in>
+            <out>12814.8</out>
+            <start>12683.7</start>
+            <end>12814.8</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+          <clipitem id="clipitem-12">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <in>12838.8</in>
+            <out>12891.6</out>
+            <start>12838.8</start>
+            <end>12891.6</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+          <clipitem id="clipitem-13">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <in>12892.5</in>
+            <out>13017.0</out>
+            <start>12892.5</start>
+            <end>13017.0</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+          <clipitem id="clipitem-14">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <rate>
+              <timebase>30</timebase>
+              <ntsc>false</ntsc>
+            </rate>
+            <in>13017.6</in>
+            <out>13066.8</out>
+            <start>13017.6</start>
+            <end>13066.8</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+              <enabled>true</enabled>
+              <locked>false</locked>
+            </track>
+          </video>
+          
+          <audio>
+            <track>
+          
+          <clipitem id="clipitem-15">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <in>12055.2</in>
+            <out>12093.6</out>
+            <start>12055.2</start>
+            <end>12093.6</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+          <clipitem id="clipitem-16">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <in>12093.6</in>
+            <out>12127.8</out>
+            <start>12093.6</start>
+            <end>12127.8</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+          <clipitem id="clipitem-17">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <in>12128.7</in>
+            <out>12180.6</out>
+            <start>12128.7</start>
+            <end>12180.6</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+          <clipitem id="clipitem-18">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <in>12181.2</in>
+            <out>12217.8</out>
+            <start>12181.2</start>
+            <end>12217.8</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+          <clipitem id="clipitem-19">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <in>12218.7</in>
+            <out>12351.6</out>
+            <start>12218.7</start>
+            <end>12351.6</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+          <clipitem id="clipitem-20">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <in>12352.5</in>
+            <out>12481.2</out>
+            <start>12352.5</start>
+            <end>12481.2</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+          <clipitem id="clipitem-21">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <in>12482.1</in>
+            <out>12531.0</out>
+            <start>12482.1</start>
+            <end>12531.0</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+          <clipitem id="clipitem-22">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <in>12531.9</in>
+            <out>12568.8</out>
+            <start>12531.9</start>
+            <end>12568.8</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+          <clipitem id="clipitem-23">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <in>12569.4</in>
+            <out>12618.0</out>
+            <start>12569.4</start>
+            <end>12618.0</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+          <clipitem id="clipitem-24">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <in>12618.9</in>
+            <out>12682.8</out>
+            <start>12618.9</start>
+            <end>12682.8</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+          <clipitem id="clipitem-25">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <in>12683.7</in>
+            <out>12814.8</out>
+            <start>12683.7</start>
+            <end>12814.8</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+          <clipitem id="clipitem-26">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <in>12838.8</in>
+            <out>12891.6</out>
+            <start>12838.8</start>
+            <end>12891.6</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+          <clipitem id="clipitem-27">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <in>12892.5</in>
+            <out>13017.0</out>
+            <start>12892.5</start>
+            <end>13017.0</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+          <clipitem id="clipitem-28">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>TdoT 35services fertig.mp4</name>
+            <enabled>true</enabled>
+            <in>13017.6</in>
+            <out>13066.8</out>
+            <start>13017.6</start>
+            <end>13066.8</end>
+            <file id="TdoT 35services fertig.mp4"/>
+          </clipitem>
+          
+            </track>
+            </audio>
+          </media>
+          
+          <marker>
+            <name>No Speaker</name>
+            <comment>So now we've got  Chris here.</comment>
+            <in>12055.2</in>
+            <out>12093.6</out>
+          </marker>
+          
+          <marker>
+            <name>No Speaker</name>
+            <comment>Chris, what are you doing here?</comment>
+            <in>12093.6</in>
+            <out>12127.8</out>
+          </marker>
+          
+          <marker>
+            <name>No Speaker</name>
+            <comment>What made you come here?</comment>
+            <in>12128.7</in>
+            <out>12180.6</out>
+          </marker>
+          
+          <marker>
+            <name>No Speaker</name>
+            <comment>I came here to see Tom.</comment>
+            <in>12181.2</in>
+            <out>12217.8</out>
+          </marker>
+          
+          <marker>
+            <name>No Speaker</name>
+            <comment>He's told me a little bit about the project here last year when I came</comment>
+            <in>12218.7</in>
+            <out>12351.6</out>
+          </marker>
+          
+          <marker>
+            <name>No Speaker</name>
+            <comment>to visit him and yeah, I thought I'd come and check it out.</comment>
+            <in>12352.5</in>
+            <out>12481.2</out>
+          </marker>
+          
+          <marker>
+            <name>No Speaker</name>
+            <comment>He's very excited about it.</comment>
+            <in>12482.1</in>
+            <out>12531.0</out>
+          </marker>
+          
+          <marker>
+            <name>No Speaker</name>
+            <comment>It's a nice day.</comment>
+            <in>12531.9</in>
+            <out>12568.8</out>
+          </marker>
+          
+          <marker>
+            <name>No Speaker</name>
+            <comment>It's a Sunday. Why not?</comment>
+            <in>12569.4</in>
+            <out>12618.0</out>
+          </marker>
+          
+          <marker>
+            <name>No Speaker</name>
+            <comment>And you're getting a tour in a couple</comment>
+            <in>12618.9</in>
+            <out>12682.8</out>
+          </marker>
+          
+          <marker>
+            <name>No Speaker</name>
+            <comment>of minutes. What do you know already? Which tool are you most excited about?</comment>
+            <in>12683.7</in>
+            <out>12814.8</out>
+          </marker>
+          
+          <marker>
+            <name>No Speaker</name>
+            <comment>Honestly, I have no idea.</comment>
+            <in>12838.8</in>
+            <out>12891.6</out>
+          </marker>
+          
+          <marker>
+            <name>No Speaker</name>
+            <comment>Well enjoy the tour and check out all the tools we've got.</comment>
+            <in>12892.5</in>
+            <out>13017.0</out>
+          </marker>
+          
+          <marker>
+            <name>No Speaker</name>
+            <comment>Thank you very much.</comment>
+            <in>13017.6</in>
+            <out>13066.8</out>
+          </marker>
+            </sequence>
+          </xmeml>
+          
